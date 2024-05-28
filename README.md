@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.codeforces.com">
-<img src="https://codeforces.org/s/75966/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="240" height="150"/>
+<img src="https://codeforces.org/s/75966/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="400" height="190"/>
 </p>
 
 <p align='center'>
