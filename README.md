@@ -10,9 +10,15 @@
 
 ## 📚 Informações gerais
 
-Repositório contendo soluções de uma gama de exercícios da plataforma [codeforces](https://codeforces.com/) mantida pelo grupo FACOMpetindo da FACOM/UFMS.
+Repositório contendo soluções de uma gama de exercícios da plataforma [codeforces](https://codeforces.com/) mantido pelo grupo FACOMpetindo da FACOM/UFMS.
 
 O repositório é dedicado majoritariamente a linguagem C++, mas soluções em outras linguagens são aceitas
+
+## 🫂 Contribuições
+
+Contribuições são mais que bem-vindas, de qualquer exercício (mesmo os que já estejam nesse repositório) e em qualquer linguagem, desde que o veredito na plataforma seja AC.
+
+Para adicionar uma solução, simplesmente crie uma PR com uma ou mais soluções em suas pastas apropriadas (se é um contest oficial, gym, número do round etc).
 
 ## 📃 Licença
 MIT
