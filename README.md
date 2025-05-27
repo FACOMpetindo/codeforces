@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.codeforces.com">
-<img src="https://codeforces.org/s/75966/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="400" height="190"/>
+<img src="https://codeforces.org/s/75966/images/codeforces-sponsored-by-ton.png" alt="Codeforces" width="200" height="85"/>
 </p>
 
 <p align='center'>
@@ -10,11 +10,9 @@
 
 ## 📚 Informações gerais
 
-Soluções de alguns exercícios da plataforma [codeforces](https://codeforces.com/)
+Repositório contendo soluções de uma gama de exercícios da plataforma [codeforces](https://codeforces.com/) mantida pelo grupo FACOMpetindo da FACOM/UFMS.
 
-O repositório é dedicado as linguagens Python e C++
-
-Meu perfil pode ser acessado [aqui](https://codeforces.com/profile/falcao_g)
+O repositório é dedicado majoritariamente a linguagem C++, mas soluções em outras linguagens são aceitas
 
 ## 📃 Licença
 MIT
