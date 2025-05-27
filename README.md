@@ -10,7 +10,7 @@
 
 ## 📚 Informações gerais
 
-Repositório contendo soluções de uma gama de exercícios da plataforma [codeforces](https://codeforces.com/) mantido pelo grupo [FACOMpetindo](https://www.instagram.com/facompetindo/) da FACOM/UFMS.
+Repositório contendo soluções de uma gama de exercícios da plataforma [Codeforces](https://codeforces.com/) mantido pelo grupo [FACOMpetindo](https://www.instagram.com/facompetindo/) da FACOM/UFMS.
 
 O repositório é dedicado majoritariamente a linguagem C++, mas soluções em outras linguagens são aceitas
 
