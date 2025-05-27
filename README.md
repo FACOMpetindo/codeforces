@@ -4,15 +4,17 @@
 </p>
 
 <p align='center'>
-<img alt="Python" src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C++--F34B7D.svg?logo=cplusplus">
+<img alt="Python" src="https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white">
 </p>
 
 ## 📚 Informações gerais
 
-Repositório contendo soluções de uma gama de exercícios da plataforma [codeforces](https://codeforces.com/) mantido pelo grupo FACOMpetindo da FACOM/UFMS.
+Repositório contendo soluções de uma gama de exercícios da plataforma [codeforces](https://codeforces.com/) mantido pelo grupo [FACOMpetindo](https://www.instagram.com/facompetindo/) da FACOM/UFMS.
 
 O repositório é dedicado majoritariamente a linguagem C++, mas soluções em outras linguagens são aceitas
+
+Esperamos que esse repositório seja muito útil para aqueles iniciando e/ou desejando se aprofundar na programação competitiva! No futuro planejamos adicionar explicações mais detalhadas para cada solução.
 
 ## 🫂 Contribuições
 
